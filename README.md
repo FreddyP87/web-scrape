@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Freddy Perez</h1>
-<h3 align="center">An Operations & IT newbie</h3>
+<h3 align="center">IT Operations & Junior Dev Intern</h3>
 
 - 🌱 I’m currently learning **HTML5, CSS , JS & Python**
 
